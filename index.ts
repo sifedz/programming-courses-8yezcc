@@ -7,4 +7,3 @@ let num2: number;
 num1 = 12;
 num2 = 2;
 console.log[num2];
-
